@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "Nevuly/scoop-bucket:master"
+    [String]$upstream = "Nevuly/frostbite:master"
 )
 
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
