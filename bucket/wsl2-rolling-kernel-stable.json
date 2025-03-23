@@ -1,12 +1,12 @@
 {
-    "version": "6.13.7",
+    "version": "6.13.8",
     "description": "Rolling Release Stable Kernel for Windows Subsystem for Linux2 (WSL2)",
     "homepage": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling/releases/download/linux-wsl-stable-6.13.7/bzImage-x86_64",
-            "hash": "2034e7b5ef9f022af457cacedec234e0749d983a7fab9276323350bc24b2311a",
+            "url": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling/releases/download/linux-wsl-stable-6.13.8/bzImage-x86_64",
+            "hash": "145df0728858334dbe0a11d3fd630add649639a0c6ebaaa363a57fc1dd9714a5",
             "post_install": [
                 "###########################################",
                 "# Set WSL2 rolling kernel in `.wslconfig` #",
@@ -31,8 +31,8 @@
             ]
         },
         "arm64": {
-            "url": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling/releases/download/linux-wsl-stable-6.13.7/Image-arm64",
-            "hash": "b6e0c5e7eee8efde7ac6149e00aa3e939e72f5f00a0b7081d01eeba990d27355",
+            "url": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling/releases/download/linux-wsl-stable-6.13.8/Image-arm64",
+            "hash": "2bffee0f67ab1742924643bcbbf9925321d85b0b64c0def7e2023db74d39542c",
             "post_install": [
                 "###########################################",
                 "# Set WSL2 rolling kernel in `.wslconfig` #",
