@@ -1,12 +1,12 @@
 {
-    "version": "6.12.21",
+    "version": "6.12.22",
     "description": "Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)",
     "homepage": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS",
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS/releases/download/linux-wsl-lts-6.12.21/bzImage-x86_64",
-            "hash": "36eb20c9f640c76f8a16a7c3b90eed3eb3cc5511939b3ae7914d3bd6a4a2c9b0",
+            "url": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS/releases/download/linux-wsl-lts-6.12.22/bzImage-x86_64",
+            "hash": "c117235f02f316d3b9466094faffed44e7b6a3477acb4aae4b289f4b83dde568",
             "post_install": [
                 "###########################################",
                 "# Set WSL2 rolling kernel in `.wslconfig` #",
@@ -31,8 +31,8 @@
             ]
         },
         "arm64": {
-            "url": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS/releases/download/linux-wsl-lts-6.12.21/Image-arm64",
-            "hash": "8b1ed3aa7551760a5f4f5c1ead69aaa567eed83c98d5f9247c18e6be0805b2d8",
+            "url": "https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS/releases/download/linux-wsl-lts-6.12.22/Image-arm64",
+            "hash": "3efd5dabd656f853db56ca9d861f987a31bc5420e8f1e66d9d605795c5d568d2",
             "post_install": [
                 "###########################################",
                 "# Set WSL2 rolling kernel in `.wslconfig` #",
