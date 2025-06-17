@@ -21,4 +21,6 @@ scoop install frostbite/<manifestname>
 | Manifest name | Description |
 |:-------------:|:------:|
 | wsl2-rolling-kernel-stable | WSL2 Rolling Release Stable Kernel |
+| wsl2-rolling-kernel-stable-addon | WSL2 Rolling Release Stable Kernel Addon Packages (Modules, Headers, Docs) |
 | wsl2-rolling-kernel-lts | WSL2 Rolling Release LTS Kernel |
+| wsl2-rolling-kernel-lts-addon | WSL2 Rolling Release LTS Kernel Addon Packages (Modules, Headers, Docs) |
