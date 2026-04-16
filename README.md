@@ -1,6 +1,6 @@
 # Frostbite (Scoop Bucket)
 
-[![Tests](https://img.shields.io/github/actions/workflow/status/Nevuly/frostbite/ci.yml?label=tests&logo=github-actions&logoColor=%23FFFFFF&style=for-the-badge&labelColor=%23000000)](https://github.com/Nevuly/frostbite/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Nevuly/frostbite/ci.yml?label=ci&logo=github-actions&logoColor=%23FFFFFF&style=for-the-badge&labelColor=%23000000)](https://github.com/Nevuly/frostbite/actions/workflows/ci.yml)
 [![Excavator](https://img.shields.io/github/actions/workflow/status/Nevuly/frostbite/excavator.yml?label=excavator&logo=github-actions&logoColor=%23FFFFFF&style=for-the-badge&labelColor=%23000000)](https://github.com/Nevuly/frostbite/actions/workflows/excavator.yml)
 
 ## Introduction
